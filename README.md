@@ -5,7 +5,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-[https://mybinder.org/v2/gh/Gigi1702/binder-rep/py37_r353](https://hub.ovh2.mybinder.org/user/gigi1702-pscript2-6zdc9rn9/lab/tree/LMR-P2%20(2).py)
+https://mybinder.org/v2/gh/Gigi1702/Pscript2/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
